@@ -1,0 +1,5 @@
+<dataConfig>
+  <document>
+    <entity name="sep" processor="SolrEntityProcessor" url="http://localhost:8983/solr/mortar-test" query="*:*"/>
+  </document>
+</dataConfig>
